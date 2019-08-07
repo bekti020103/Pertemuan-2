@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+        <table border="1" cellspacing="0" cellpadding="10" align="center" style="color: blue">
+            <tr align="center">
+                <td>No.</td>
+                <td>Nama</td>
+                <td>Jenis Kelamain</td>
+                <td>Kelas</td>
+            </tr>
+            <tr >
+                <td align="Right">1</td>
+                <td>Udin</td>
+                <td align="center">Male</td>
+                <td>XI RPL 1</td>
+            </tr>
+            <tr>
+                <td align="Right">2</td>
+                <td>Itok</td>
+                <td align="center">Male</td>
+                <td>XI RPL 1</td>
+            </tr>
+            <tr>
+                <td align="Right">3</td>
+                <td>Inot</td>
+                <td align="center">Famale</td>
+                <td>XI RPL 1</td>
+            </tr>
+            <tr>
+                <td align="Right">4</td>
+                <td>Utok</td>
+                <td align="center">Male</td>
+                <td>XI RPL 1</td>
+            </tr>
+            <tr>
+                <td align="Right">5</td>
+                <td>Suronot</td>
+                <td align="center">Famale</td>
+                <td>XI RPL 1</td>
+            </tr>
+        </table>
+        <p>
+        <table border="1" cellspacing="0" cellpadding="25" align="center">
+            <tr>
+                <td></td>
+                <td colspan="2"></td>
+                <td rowspan="3"></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td rowspan="2"></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td></td>
+                <td rowspan="2"></td>
+            </tr>
+            <tr>
+                <td colspan="4"></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td colspan="3"></td>
+                <td></td>
+            </tr>
+        </table>
+    </p>
+
+</body>
+</html>
